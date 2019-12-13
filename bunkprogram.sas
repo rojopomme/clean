@@ -1,2 +1,2 @@
-proc print data= nothing;
+proc stuff
 more code
